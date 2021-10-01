@@ -6,4 +6,4 @@ If SPAs were flicks, here you'll find a bit of every genre:
 - 🔬 &nbsp;[Sci-Fi](https://hqcasanova.github.io/arrayexpress-search)
 - 📜 &nbsp;[Biopic](https://hqcasanova.github.io)
 
-Hope they are worth your rave review 🤪 &nbsp;Enjoy!
+If you aren't into movies, how about a simple game of [tic-tac-toe](http://hqcasanova.github.io/DOM-and-jQuery-basics/), pre-flexbox edition? 🤪 &nbsp;Enjoy!
