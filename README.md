@@ -2,6 +2,7 @@ Hi, there! Welcome to my museum of some of the single-page apps and other code r
 
 If SPAs were flicks, here you'd find a bit of every genre:
 - 🕵️‍♀️ &nbsp;[Mystery](https://hqcasanova.github.io/pin-pad)
+- 💰 &nbsp;[Financial thriller](https://hqcasanova.github.io/react-app)
 - 🎵 &nbsp;[Musical](https://hqcasanova.github.io/interactive-matcher)
 - 📜 &nbsp;[Biopic](https://hqcasanova.github.io)
 
