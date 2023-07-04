@@ -2,8 +2,8 @@ Hi, there! Welcome to my museum of some of the single-page apps and other code r
 
 If SPAs were flicks, here you'd find a bit of every genre:
 
-- 📝 &nbsp;[Narrative](https://hqcasanova.github.io/react-task) - React 18
-- 👽 &nbsp;[Sci-Fi](https://hqcasanova.github.io/react-graphql) - React 18
+- 📝 &nbsp;[Narrative](https://hqcasanova.github.io/react-task) - React 18 (WIP)
+- 👽 &nbsp;[Sci-Fi](https://hqcasanova.github.io/react-graphql) - React 18 (WIP)
 - 💰 &nbsp;[Financial thriller](https://hqcasanova.github.io/react-app) - React 18
 - 🕵️‍♀️ &nbsp;[Mystery](https://hqcasanova.github.io/pin-pad) - Vue 3
 - 🎵 &nbsp;[Musical](https://hqcasanova.github.io/interactive-matcher) - Angular 12
