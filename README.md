@@ -3,7 +3,7 @@ Hi, there! Welcome to my museum of some of the single-page apps and other code r
 If SPAs were flicks, here you'd find a bit of every genre:
 
 - 🎥 &nbsp;[Documentary](https://hqcasanova.github.io/unsplash) - Vue 3 (WIP)
-- 📝 &nbsp;[Narrative](https://hqcasanova.github.io/react-task) - React 18 (WIP)
+- 📝 &nbsp;Narrative - [Vue 3.3](https://hqcasanova.github.io/vue-task) and [React 18](https://hqcasanova.github.io/react-task) (WIP)
 - 👽 &nbsp;[Sci-Fi](https://hqcasanova.github.io/react-graphql) - React 18 (WIP)
 - 💰 &nbsp;[Financial thriller](https://hqcasanova.github.io/react-app) - React 18
 - 🔎 &nbsp;[Mystery](https://hqcasanova.github.io/pin-pad) - Vue 3
